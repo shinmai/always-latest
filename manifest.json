@@ -1,6 +1,6 @@
 {
   "name": "Only latest",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "manifest_version": 2,
   "description": "Try to always show latest tweets on Twitter timeline instead of returning to top tweets",
   "homepage_url": "http://aapo.rip",
