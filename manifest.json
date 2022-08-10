@@ -1,7 +1,7 @@
 {
   "name": "Only latest",
-  "version": "0.0.3",
-  "manifest_version": 2,
+  "version": "0.0.4",
+  "manifest_version": 3,
   "description": "Try to always show latest tweets on Twitter timeline instead of returning to top tweets",
   "homepage_url": "http://aapo.rip",
   "icons": {
@@ -9,7 +9,7 @@
     "48": "icon48.png",
     "128": "icon128.png"
   },
-  "permissions": [
+  "host_permissions": [
     "https://twitter.com/home"
   ],
   "content_scripts": [
